@@ -1,11 +1,11 @@
 * {
     padding: 0;
     margin: 0;
-    background-color:rgb(175, 219, 196)
 }
 
 body {
     font-family: 'Roboto', sans-serif;
+    background-color:rgb(175, 219, 196)
 }
 
 
@@ -13,6 +13,7 @@ nav {
     width: 100vw;
     text-align:center;
     position: fixed;
+    background-color: white;
 }
 
 nav li {
@@ -21,7 +22,7 @@ nav li {
 }
 
 nav a{
-    color:rgb(255, 255, 255);
+    color:rgb(175, 219, 196);
     text-decoration: none;
     font-size: 4vh;
     font-weight: 100;
